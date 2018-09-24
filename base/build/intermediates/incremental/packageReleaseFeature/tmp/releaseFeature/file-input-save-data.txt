@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 24 12:53:39 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/transforms/dexMerger/feature/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

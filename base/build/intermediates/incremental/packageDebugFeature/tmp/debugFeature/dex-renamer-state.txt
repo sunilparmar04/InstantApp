@@ -1,0 +1,4 @@
+#Mon Sep 24 12:53:03 IST 2018
+base.0=/home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/transforms/dexMerger/feature/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
