@@ -43,30 +43,30 @@ public final class R {
         public static final int userInputValue = 0x7f020163;
     }
     public static final class id {
-        public static final int contact = 0x7f070031;
-        public static final int date = 0x7f070037;
-        public static final int demote_common_words = 0x7f07003a;
-        public static final int demote_rfc822_hostnames = 0x7f07003b;
-        public static final int email = 0x7f070040;
-        public static final int html = 0x7f07004e;
-        public static final int icon_uri = 0x7f070052;
-        public static final int index_entity_types = 0x7f070055;
-        public static final int instant_message = 0x7f070057;
-        public static final int intent_action = 0x7f070058;
-        public static final int intent_activity = 0x7f070059;
-        public static final int intent_data = 0x7f07005a;
-        public static final int intent_data_id = 0x7f07005b;
-        public static final int intent_extra_data = 0x7f07005c;
-        public static final int large_icon_uri = 0x7f07005f;
-        public static final int match_global_nicknames = 0x7f070066;
-        public static final int omnibox_title_section = 0x7f070071;
-        public static final int omnibox_url_section = 0x7f070072;
-        public static final int plain = 0x7f070077;
-        public static final int rfc822 = 0x7f07007b;
-        public static final int text1 = 0x7f0700a3;
-        public static final int text2 = 0x7f0700a4;
-        public static final int thing_proto = 0x7f0700a7;
-        public static final int url = 0x7f0700b0;
+        public static final int contact = 0x7f070032;
+        public static final int date = 0x7f070038;
+        public static final int demote_common_words = 0x7f07003b;
+        public static final int demote_rfc822_hostnames = 0x7f07003c;
+        public static final int email = 0x7f070041;
+        public static final int html = 0x7f07004f;
+        public static final int icon_uri = 0x7f070053;
+        public static final int index_entity_types = 0x7f070056;
+        public static final int instant_message = 0x7f070058;
+        public static final int intent_action = 0x7f070059;
+        public static final int intent_activity = 0x7f07005a;
+        public static final int intent_data = 0x7f07005b;
+        public static final int intent_data_id = 0x7f07005c;
+        public static final int intent_extra_data = 0x7f07005d;
+        public static final int large_icon_uri = 0x7f070060;
+        public static final int match_global_nicknames = 0x7f070067;
+        public static final int omnibox_title_section = 0x7f070072;
+        public static final int omnibox_url_section = 0x7f070073;
+        public static final int plain = 0x7f070078;
+        public static final int rfc822 = 0x7f07007c;
+        public static final int text1 = 0x7f0700a4;
+        public static final int text2 = 0x7f0700a5;
+        public static final int thing_proto = 0x7f0700a8;
+        public static final int url = 0x7f0700b1;
     }
     public static final class styleable {
         public static final int[] AppDataSearch = { };

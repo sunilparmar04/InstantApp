@@ -9,12 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.demoinstant.MainActivity">
+
+        <activity
+            android:name="com.demoinstant.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.demoinstant.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
 
             <meta-data
                 android:name="default-url"
@@ -27,9 +37,9 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:scheme="http"
                     android:host="sptechinfo.000webhostapp.com"
-                    android:path="/Products" />
+                    android:path="/Products"
+                    android:scheme="http" />
             </intent-filter>
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
@@ -38,11 +48,12 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:scheme="https"
                     android:host="sptechinfo.000webhostapp.com"
-                    android:path="/Products" />
+                    android:path="/Products"
+                    android:scheme="https" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="asset_statements"
             android:resource="@string/asset_statements" />

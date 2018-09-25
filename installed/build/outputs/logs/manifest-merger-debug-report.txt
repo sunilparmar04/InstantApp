@@ -4,7 +4,7 @@ ADDED from /home/nobroker/android example/instant app/DemoInstant/installed/src/
 INJECTED from /home/nobroker/android example/instant app/DemoInstant/installed/src/main/AndroidManifest.xml:1:1-5:12
 INJECTED from /home/nobroker/android example/instant app/DemoInstant/installed/src/main/AndroidManifest.xml:1:1-5:12
 INJECTED from /home/nobroker/android example/instant app/DemoInstant/installed/src/main/AndroidManifest.xml:1:1-5:12
-MERGED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-58:12
+MERGED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-65:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/4ecc383af1c762029d7c1ef6773a23eb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/73d064e796cf34c28801d90534046761/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-appindexing:16.0.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-16.0.1.aar/2ac00df5d5fb851131e403b122947b10/AndroidManifest.xml:17:1-24:12
@@ -170,7 +170,7 @@ INJECTED from /home/nobroker/android example/instant app/DemoInstant/installed/s
 		ADDED from /home/nobroker/android example/instant app/DemoInstant/installed/src/main/AndroidManifest.xml
 		INJECTED from /home/nobroker/android example/instant app/DemoInstant/installed/src/main/AndroidManifest.xml
 application
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-56:19
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-63:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/73d064e796cf34c28801d90534046761/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/73d064e796cf34c28801d90534046761/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-appindexing:16.0.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-16.0.1.aar/2ac00df5d5fb851131e403b122947b10/AndroidManifest.xml:22:5-20
@@ -225,60 +225,72 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /home
 		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-40
-activity#com.demoinstant.MainActivity
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-51:20
+activity#com.demoinstant.SplashActivity
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:19-62
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-23:29
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-69
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:25-66
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:17-77
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:27-74
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:27-74
+activity#com.demoinstant.MainActivity
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:9-58:20
+	android:screenOrientation
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:13-49
+	android:theme
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-56
 meta-data#default-url
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-27:80
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-34:80
 	android:value
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:17-77
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:17-43
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:17-43
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:sptechinfo.000webhostapp.com+data:path:/Products+data:scheme:http
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-39:29
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-46:29
 	android:autoVerify
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:28-53
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:28-53
 action#android.intent.action.VIEW
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:17-69
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:25-66
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:25-66
 category#android.intent.category.DEFAULT
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:17-76
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:17-76
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:27-73
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:17-78
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:17-78
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:27-75
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:27-75
 data
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:17-38:45
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-45:45
 	android:path
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:21-45
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:21-45
 	android:host
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:21-64
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:21-64
 	android:scheme
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:21-42
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:21-42
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:sptechinfo.000webhostapp.com+data:path:/Products+data:scheme:https
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-50:29
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-57:29
 	android:autoVerify
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:28-53
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:28-53
 meta-data#asset_statements
-ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-55:59
+ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:9-62:59
 	android:resource
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-56
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-56
 	android:name
-		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-44
+		ADDED from [:base] /home/nobroker/android example/instant app/DemoInstant/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-44
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/b37efdd8f51b7e34d2e770b4f827499c/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/5501fa03bbed7680b3c76ca7462a99ff/AndroidManifest.xml:23:5-67

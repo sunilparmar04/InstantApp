@@ -43,30 +43,30 @@ public final class R {
         public static int userInputValue = 0x7f040164;
     }
     public static final class id {
-        public static int contact = 0x7f0c0021;
-        public static int date = 0x7f0c0027;
-        public static int demote_common_words = 0x7f0c002a;
-        public static int demote_rfc822_hostnames = 0x7f0c002b;
-        public static int email = 0x7f0c002d;
-        public static int html = 0x7f0c0036;
-        public static int icon_uri = 0x7f0c003a;
-        public static int index_entity_types = 0x7f0c003c;
-        public static int instant_message = 0x7f0c003e;
-        public static int intent_action = 0x7f0c003f;
-        public static int intent_activity = 0x7f0c0040;
-        public static int intent_data = 0x7f0c0041;
-        public static int intent_data_id = 0x7f0c0042;
-        public static int intent_extra_data = 0x7f0c0043;
-        public static int large_icon_uri = 0x7f0c0046;
-        public static int match_global_nicknames = 0x7f0c004d;
-        public static int omnibox_title_section = 0x7f0c0056;
-        public static int omnibox_url_section = 0x7f0c0057;
-        public static int plain = 0x7f0c005c;
-        public static int rfc822 = 0x7f0c0060;
-        public static int text1 = 0x7f0c0085;
-        public static int text2 = 0x7f0c0086;
-        public static int thing_proto = 0x7f0c0089;
-        public static int url = 0x7f0c0092;
+        public static int contact = 0x7f0c0022;
+        public static int date = 0x7f0c0028;
+        public static int demote_common_words = 0x7f0c002b;
+        public static int demote_rfc822_hostnames = 0x7f0c002c;
+        public static int email = 0x7f0c002e;
+        public static int html = 0x7f0c0037;
+        public static int icon_uri = 0x7f0c003b;
+        public static int index_entity_types = 0x7f0c003d;
+        public static int instant_message = 0x7f0c003f;
+        public static int intent_action = 0x7f0c0040;
+        public static int intent_activity = 0x7f0c0041;
+        public static int intent_data = 0x7f0c0042;
+        public static int intent_data_id = 0x7f0c0043;
+        public static int intent_extra_data = 0x7f0c0044;
+        public static int large_icon_uri = 0x7f0c0047;
+        public static int match_global_nicknames = 0x7f0c004e;
+        public static int omnibox_title_section = 0x7f0c0057;
+        public static int omnibox_url_section = 0x7f0c0058;
+        public static int plain = 0x7f0c005d;
+        public static int rfc822 = 0x7f0c0061;
+        public static int text1 = 0x7f0c0086;
+        public static int text2 = 0x7f0c0087;
+        public static int thing_proto = 0x7f0c008a;
+        public static int url = 0x7f0c0093;
     }
     public static final class styleable {
         public static int[] Corpus = { 0x7f040068, 0x7f04006b, 0x7f04006c, 0x7f04007a, 0x7f040100, 0x7f04010e, 0x7f04011d, 0x7f040160 };
